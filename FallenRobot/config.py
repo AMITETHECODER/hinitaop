@@ -7,7 +7,7 @@ class Config(object):
 
     CASH_API_KEY = "1T4JPU6WMF1DG7EI"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "postgres://jrycfssc:fEZMYWiOcO9vB8cIq1_Z97GhW3TiTppJ@tiny.db.elephantsql.com/jrycfssc"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://ofgdlqfx:rsEOX2dcqxnYhLIR1g6mLWXuvVhiWg7V@mel.db.elephantsql.com/ofgdlqfx"  # A sql database url from elephantsql.com
 
     EVENT_LOGS = "-1001762139427"  # Event logs channel to note down important bot level events
 
